@@ -24,11 +24,11 @@
 }
 
 - (void)option1Tapped {
-    NSLog(@"Option 1 selected");
+    NSLog(@"1 selected");
 }
 
 - (void)option2Tapped {
-    NSLog(@"Option 2 selected");
+    NSLog(@"2 selected");
 }
 
 @end
